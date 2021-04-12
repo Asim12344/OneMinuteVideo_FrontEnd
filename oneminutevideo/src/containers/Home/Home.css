@@ -1,0 +1,43 @@
+.m-t-50{
+    margin-top: 50px;
+}
+
+.m-t-7{
+  margin-top: 7px;
+}
+
+.height-45{
+  height: 45px;
+}
+
+.blue-button {
+  background-color: #2361fc;
+  color: #fff;
+  border: none;
+}
+
+.pull-right{
+  float: right;
+}
+
+.margin-right-7{
+  margin-right: 7px;
+}
+
+.or{
+  margin-left: 260px;
+  margin-top: 20px;
+}
+
+.disabled{
+  cursor: not-allowed;
+}
+
+.styling{
+  /* transform: scale(2.0); */
+  margin: 7px 17px 7px 7px;
+}
+
+.width-50{
+  width: 50%;
+}
